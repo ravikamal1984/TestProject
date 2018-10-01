@@ -14,7 +14,9 @@ public class testfile {
 	public void setAge(String age) {
 		this.age = age;
 	}
-	
+	public static void main(String args[]){
+		
+	}
 	
 
 }
